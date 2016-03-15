@@ -1,11 +1,11 @@
 # Tugas-AI
-Nama	: ROFILMA PURBA
-Nim	: 131113506
-Kelas	: TPB-Pagi
+Nama	: ROFILMA PURBA <br>
+Nim	: 131113506<br>
+Kelas	: TPB-Pagi<br>
 
-Argumentasi saya:
-•	Apakah anda setuju atau tidak dengan pendapat Turing?
-Jawab: Ya. Test Turing merupakan sebuah metode pengujian kecerdasan yang dibuat oleh Alan Turing. Proses uji ini melibatkan seorang penanya (manusia) dan dua obyekyang ditanyai. Yang satu adalah seorang manusia dan satunya adalahsebuah mesin yang akan diuji. Penanya tidak bisa melihat langsung kepada obyek yg ditanyai. Penanya diminta untuk membedakan mana jawaban komputer dan mana jawaban manusia berdasarkan jawaban kedua obyek tersebut. Jika penanya tidak dapat membedakan mana jawaban mesin dan mana jawaban manusia maka Turing berpendapat bahwa mesin yang diuji tersebut  dapat  diasumsikan  CERDAS.
+Argumentasi saya:<br>
+<p>•	Apakah anda setuju atau tidak dengan pendapat Turing?
+Jawab: Ya. Test Turing merupakan sebuah metode pengujian kecerdasan yang dibuat oleh Alan Turing. Proses uji ini melibatkan seorang penanya (manusia) dan dua obyekyang ditanyai. Yang satu adalah seorang manusia dan satunya adalahsebuah mesin yang akan diuji. Penanya tidak bisa melihat langsung kepada obyek yg ditanyai. Penanya diminta untuk membedakan mana jawaban komputer dan mana jawaban manusia berdasarkan jawaban kedua obyek tersebut. Jika penanya tidak dapat membedakan mana jawaban mesin dan mana jawaban manusia maka Turing berpendapat bahwa mesin yang diuji tersebut  dapat  diasumsikan  CERDAS.</p> <br>
 •	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
 Jawab: akan ada. 
 •	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
