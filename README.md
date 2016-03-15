@@ -9,8 +9,8 @@ Jawab: Ya. Test Turing merupakan sebuah metode pengujian kecerdasan yang dibuat 
 <p>•	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?</p>
 Jawab: akan ada. 
 <p>•	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?</p>
-Jawab: menurut saya halangan yang menghambat komputer untuk melewati test turing adalah komputer tidak memiliki kemampuan emosional seperti manusia.<br>
-Istilah pada AI dan contoh implementasinya:
+Jawab: menurut saya halangan yang menghambat komputer untuk melewati test turing adalah komputer tidak memiliki kemampuan emosional seperti manusia.</p><br>
+<p>Istilah pada AI dan contoh implementasinya:</p>
 <p>1.	Pengolahan Bahasa Alami ( Natural Language Procesing)</p>
 Natural Language Processing (NLP) adalah salah satu bidang ilmu komputer, kecerdasan buatan, dan bahasa (linguistik) yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia, seperti bahasa Indonesia atau bahasa Inggris. Tujuan utama dari studi NLP adalah membuat mesin yang mampu mengerti dan memahami makna bahasa manusia lalu memberikan respon yang sesuai. Contohnya: Machine Translation adalah program yang mampu mentranslasi kalimat baik berupa teks maupun suara dari satu bahasa alami ke bahasa lainnya. (Contoh : Google Translate)<br>
 <p>2.	Knowledge representation ( Representasi Pengetahuan)</p>
